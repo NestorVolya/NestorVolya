@@ -65,7 +65,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 Україна · Київ  
 Останнє оновлення: 2026
@@ -82,6 +82,8 @@
 Wikipedia-стаття видалена після розкриття → архів Wayback як єдине джерело.  
 Gold actor benchmark: 44 джерела · 34 домени · CHS 1.00 · 5/5 gates PASS.  
 → [HTML-кейс](https://nestorvolya.github.io/cases/chekal_osint/) · [Wikipedia (Wayback)](https://web.archive.org/web/20260129202211/https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BB%D1%8C_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) · [Pipeline (GitHub)](https://github.com/NestorVolya/osint-homework-2026/tree/main/КР-Nestor-V)
+Короткий огляд (Executive Summary)
+Олексій Чекаль — каліграф, типограф, мистецтвознавець; автор графічного стилю Православної Церкви України (ПЦУ). Публічно — проукраїнська постать. Фактично — під час повномасштабного вторгнення системна присутність у медіа та інституціях, пов'язаних з Московською патріархією та мережею м'якої сили РФ: radiovera.ru, artos.org, pravmir.ru, meetingrimini.org (Браскі / Russia Cristiana).
 
 ### [Russia Cristiana / Braschi — мережа впливу РФ](https://nestorvolya.github.io/cases/braschi_rc/) `2026`
 Francesco Braschi (Biblioteca Ambrosiana) + фонд Russia Cristiana: 67 років інституціоналізованої м'якої сили.  
