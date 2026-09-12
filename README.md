@@ -76,6 +76,10 @@
 → [nestorvolya.github.io/cases/](https://nestorvolya.github.io/cases/) · [nestorvolya.github.io](https://nestorvolya.github.io)
 
 ---
+### [Russia Cristiana / Braschi — мережа впливу РФ](https://nestorvolya.github.io/cases/braschi_rc/) `2026`
+Francesco Braschi (Biblioteca Ambrosiana) + фонд Russia Cristiana: 67 років інституціоналізованої м'якої сили.  
+40+ джерел · 4 мови · виставки Meeting di Rimini · зв'язки PSTGU Москва після 24.02.2022.  
+→ [HTML-кейс](https://nestorvolya.github.io/cases/braschi_rc/) · [Аналітичний звіт (цей Gist)](https://gist.github.com/NestorVolya/7997de7361e244ab9f1a1f9a3f818e9c) · [Notion actor profile](https://infovarta.notion.site/_-308d7fb5fd9a80198f40ee491df41d18)
 
 ### [Чекаль — Actor Profiling + Pipeline Validation](https://nestorvolya.github.io/cases/chekal_osint/) `2025–2026`
 Короткий огляд (Executive Summary)
@@ -83,18 +87,12 @@
 Маскований актор: автор графічного стилю ПЦУ + системна присутність у московській православній сфері під час війни.  
 Wikipedia-стаття видалена після розкриття → архів Wayback як єдине джерело.  
 Gold actor benchmark: 44 джерела · 34 домени · CHS 1.00 · 5/5 gates PASS.  
-→ [HTML-кейс](https://nestorvolya.github.io/cases/chekal_osint/) · [Wikipedia (Wayback)](https://web.archive.org/web/20260129202211/https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BB%D1%8C_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) · [Pipeline (GitHub)](https://github.com/NestorVolya/osint-homework-2026/tree/main/КР-Nestor-V)
-
-
-### [Russia Cristiana / Braschi — мережа впливу РФ](https://nestorvolya.github.io/cases/braschi_rc/) `2026`
-Francesco Braschi (Biblioteca Ambrosiana) + фонд Russia Cristiana: 67 років інституціоналізованої м'якої сили.  
-40+ джерел · 4 мови · виставки Meeting di Rimini · зв'язки PSTGU Москва після 24.02.2022.  
-→ [HTML-кейс](https://nestorvolya.github.io/cases/braschi_rc/) · [Аналітичний звіт (цей Gist)](https://gist.github.com/NestorVolya/7997de7361e244ab9f1a1f9a3f818e9c) · [Notion actor profile](https://infovarta.notion.site/_-308d7fb5fd9a80198f40ee491df41d18)
+→ [HTML-кейс](https://nestorvolya.github.io/cases/chekal_osint/) · [Wikipedia (Wayback)](https://web.archive.org/web/20260129202211/https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BB%D1%8C_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87) · [Pipeline (GitHub)](https://github.com/NestorVolya/osint-homework-2026/tree/main/КР-Nestor-V)   
 
 ### [Rentafont.RU — OSINT-розслідування](https://nestorvolya.github.io/cases/rentafont_ru/) `2023–2024`
 Корпоративний OSINT: WHOIS/DNS/MX, реєстри, партнерська мережа, зв'язки з РФ-ринком.  
 Peer review у DevOps-спільноті (dev.ua + DOU).  
-→ [HTML-кейс](https://nestorvolya.github.io/cases/rentafont_ru/) · [dev.ua](https://dev.ua/blogs/posts/vidmovliaiutsia-vid-spivpratsi-rf-blog) · [DOU](https://dou.ua/forums/topic/47877/)
+→ [HTML-кейс](https://nestorvolya.github.io/cases/rentafont_ru/) · [dev.ua](https://dev.ua/blogs/posts/vidmovliaiutsia-vid-spivpratsi-rf-blog) · [DOU](https://dou.ua/forums/topic/47877/)   
 
 ### [HENKEL / «Декор-Буд» — Антирейдерська інформаційна оборона](https://nestorvolya.github.io/cases/henkel_dekorbu/) `2007–2009`
 5 силових нападів на склад + фальсифікований протокол. Відповідь: сайт-«інформаційна торпеда» з відкритою доказовою базою.  
