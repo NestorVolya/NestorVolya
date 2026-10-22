@@ -6,7 +6,7 @@
 Українська типографіка · історія культури · OSINT · цифрові архіви
 
 [Проєкти](https://github.com/NestorVolya?tab=repositories) ·
-[Публікації](https://example.org) ·
+[Публікації](https://nestorvolya.github.io/cases/) ·
 [ORCID]([https://orcid.org/0000-0000-0000-0000](https://orcid.org/0009-0000-0749-0493)) ·
 [Контакти](mailto:devnvs@pm.me)
 
@@ -67,8 +67,9 @@
 # OSINT Cases
 
 **Корпоративний OSINT · Actor profiling · Pipeline validation**  
+<!--
 → [nestorvolya.github.io/cases/](https://nestorvolya.github.io/cases/) · [nestorvolya.github.io](https://nestorvolya.github.io)
-
+-->
 ---
 ### [Russia Cristiana / Braschi — мережа впливу РФ](https://nestorvolya.github.io/cases/braschi_rc/) `2026`
 Francesco Braschi (Biblioteca Ambrosiana) + фонд Russia Cristiana: 67 років інституціоналізованої м'якої сили.  
