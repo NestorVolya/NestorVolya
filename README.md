@@ -64,7 +64,7 @@
 
 <div align="left">
 
-# OSINT Cases — Нестор Воля / Nestor Volya
+# OSINT Cases
 
 **Корпоративний OSINT · Actor profiling · Pipeline validation**  
 → [nestorvolya.github.io/cases/](https://nestorvolya.github.io/cases/) · [nestorvolya.github.io](https://nestorvolya.github.io)
