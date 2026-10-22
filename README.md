@@ -64,12 +64,9 @@
 
 <div align="left">
 
-Україна · Київ  
-Останнє оновлення: 2026
-
 # OSINT Cases — Нестор Воля / Nestor Volya
 
-**Корпоративний OSINT · Actor profiling · Інформаційна оборона · Pipeline validation**  
+**Корпоративний OSINT · Actor profiling · Pipeline validation**  
 → [nestorvolya.github.io/cases/](https://nestorvolya.github.io/cases/) · [nestorvolya.github.io](https://nestorvolya.github.io)
 
 ---
