@@ -3,8 +3,9 @@
 # Нестор Воля
 
 **Дослідник · автор · інформаційний аналітик**  
+<!--
 Українська типографіка · історія культури · OSINT · цифрові архіви
-
+-->
 [Проєкти](https://github.com/NestorVolya?tab=repositories) ·
 [Публікації](https://nestorvolya.github.io/cases/) ·
 [ORCID]([https://orcid.org/0000-0000-0000-0000](https://orcid.org/0009-0000-0749-0493)) ·
