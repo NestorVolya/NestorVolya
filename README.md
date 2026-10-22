@@ -5,13 +5,12 @@
 **Дослідник · автор · інформаційний аналітик**  
 Українська типографіка · історія культури · OSINT · цифрові архіви
 
-[Проєкти](https://github.com/ВАШ_USERNAME?tab=repositories) ·
+[Проєкти](https://github.com/NestorVolya?tab=repositories) ·
 [Публікації](https://example.org) ·
 [ORCID]([https://orcid.org/0000-0000-0000-0000](https://orcid.org/0009-0000-0749-0493)) ·
 [Контакти](mailto:devnvs@pm.me)
 
 </div>
-
 ---
 
 <!--## Про мене
