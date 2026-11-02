@@ -77,7 +77,7 @@ Francesco Braschi (Biblioteca Ambrosiana) + фонд Russia Cristiana: 67 рок
 40+ джерел · 4 мови · виставки Meeting di Rimini · зв'язки PSTGU Москва після 24.02.2022.  
 → [HTML-кейс](https://nestorvolya.github.io/cases/braschi_rc/) · [Аналітичний звіт (цей Gist)](https://gist.github.com/NestorVolya/7997de7361e244ab9f1a1f9a3f818e9c) · [Notion actor profile](https://infovarta.notion.site/_-308d7fb5fd9a80198f40ee491df41d18)
 
-### [Чекаль — Actor Profiling + Pipeline Validation](https://nestorvolya.github.io/cases/chekal_osint/) `2025–2026`
+### [Actor Profiling + Pipeline Validation](https://nestorvolya.github.io/cases/chekal_osint/) `2025–2026`
 Короткий огляд (Executive Summary)
 Олексій Чекаль — каліграф, типограф, мистецтвознавець; автор графічного стилю Православної Церкви України (ПЦУ). Публічно — проукраїнська постать. Фактично — під час повномасштабного вторгнення системна присутність у медіа та інституціях, пов'язаних з Московською патріархією та мережею м'якої сили РФ: radiovera.ru, artos.org, pravmir.ru, meetingrimini.org (Браскі / Russia Cristiana).  
 Маскований актор: автор графічного стилю ПЦУ + системна присутність у московській православній сфері під час війни.  
